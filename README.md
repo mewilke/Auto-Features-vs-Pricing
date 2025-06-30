@@ -1,6 +1,6 @@
 # Auto-Features-vs-Pricing
 My customers are used car dealers. The question they are asking is what characteristics of used cars increase the prices of cars? The assumption is that the sale of a higher priced car nets more money for a used car dealer. There is the risk that this may not be true. 
-The data used are based on a Kaggle dataset of used cars (www.kaggle.com)
+The data used are based on a Kaggle dataset of used cars (www.kaggle.com).
 # Dataset
 The dataset is too large to upload to git. Any data should be placed in data/vehicles.csv to be read by the code or the code can be modified.
 # Data cleaning
